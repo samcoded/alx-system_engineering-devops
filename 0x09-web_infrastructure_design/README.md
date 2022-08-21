@@ -14,7 +14,7 @@ A simple web infrastructure that hosts a website that is reachable via www.fooba
     A server is a computer hardware or software that provides services to other computers, which are usually referred to as clients.
 
 -   Role of the domain name
-    To provide a human-friendly alias for an IP Address. For example, the domain name www.wikipedia.org is easier to recognize and remember than 91.198.174.192. The IP address and domain name alias is mapped in the Domain Name System (DNS)
+    To provide a human-friendly alias for an IP Address. For example, the domain name www.google.com is easier to recognize and remember than 8.8.8.8. The IP address and domain name alias is mapped in the Domain Name System (DNS)
 
 -   The type of DNS record www is in www.foobar.com
     www.foobar.com uses an A record. This can be checked by running dig www.foobar.com.
