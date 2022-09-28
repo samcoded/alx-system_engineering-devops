@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Script that configures HAproxy in a load balancer 
+# Script that configures HAproxy in a load balancer.
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
